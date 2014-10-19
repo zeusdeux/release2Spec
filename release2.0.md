@@ -116,9 +116,26 @@ Routes:
 - ActivateFAQComponent
     + Show FAQ component
 
-#### AppBodyComponent
+### AppBodyComponent
 
+#### ListingsComponent
 
+Behaviour:
 
+- Shows the ListingsComponent on click
 
+Routes:
 
+- GET state for current location if current location
+
+#### InteractionsComponent
+
+#### RankingsComponent
+
+#### SettingsComponent
+
+#### CheckoutComponent
+
+#### UpgradeComponent
+
+#### InteractionsComponent
